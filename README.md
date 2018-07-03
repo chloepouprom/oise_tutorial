@@ -1,4 +1,6 @@
 
+Slides: https://www.beautiful.ai/deck/-LGGfKthaOgKgiLXtAxy/OISE-tutorial
+
 1. Download this repository: Click on the green button to the right to download as a zip file.
 2. Download Python3
 3. Download Jupyter: http://jupyter.readthedocs.io/en/latest/install.html#installing-jupyter-using-anaconda-and-conda
