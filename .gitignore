@@ -1,0 +1,4 @@
+libraries/*.csv
+libraries/*/*
+venv/*
+.ipynb_checkpoints/*
